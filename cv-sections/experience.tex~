@@ -1,0 +1,65 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Experience}
+
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+
+%------------------------------------------------
+
+\cventry
+{Research Assistant} % Job title
+{Neuroscience Institute} % Organization
+{New York University} % Location
+{August 2011 - Present} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Designed and implemented thesis project to understand interactions between groups of inhibitory neurons to promote information fidelity in the hippocampus}
+\item {Collaborated on two separate projects to study effects of mutations seen in autistic phenotypes on biophysical and molecular properties of neurons}
+\item {Designed biophysically realistic simulations of neurons and microcircuits to explore parameter spaces of empirical data using Python and NEURON}
+\item {Created lab code base for easy collaboration and use of common functions (github.com/TsienLab)}
+\end{cvitems}
+}
+
+\cventry
+{Teaching Assistant/Recitation Leader} % Job title
+{Cellular and Molecular Neurobiology} % Organization
+{New York University} % Location
+{August 2012 - December 2015} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Lead recitations of course material on cellular biophysics, molecular neurobiology and microcircuit dynamics}
+\item {Lectured on special topics in systems neuroscience. Topics: place cell dynamics in the hippocampus, interneuron diversity and function in the hippocampus}
+\item {Tutored students, graded exams and provided feedback on course material}
+\end{cvitems}
+}
+%------------------------------------------------
+
+\cventry
+{Research Assistant} % Job title
+{Center for Complex Systems and Brain Sciences} % Organization
+{Florida Atlantic University} % Location
+{July 2008 - August 2011} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Designed and implemented Matlab code for signal processing of human EEG signals utilizing Fast Fourier Transform, Wavelet Analysis, PCA and beamforming}
+\item {Collaborated on visualizing high-density, processed EEG signals through 3d colorimetric-topographical map of electrode scalp position}
+\item {Lead behavioral-EEG experiments on human subjects to observe correlation of EEG signals between participants coordinating on a motor task}
+\item {Collaborated on Brain-Machine-Interface project for text input from EEG signals}
+\end{cvitems}
+}
+
+%------------------------------------------------    
+
+
+
+%------------------------------------------------
+
+\end{cventries}

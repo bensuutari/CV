@@ -1,0 +1,106 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Publications}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+%------------------------------------------------
+
+\cventry
+{Cohen, S.*, Suutari, B.*, Tsien, R.W., Ma, H. \newline \mbox{*}Contributed Equally} % Affiliation/role
+{An intellectual disability-linked mutation impairs learning by preventing CaM translocation to the nucleus} % Organization/group
+{Science} % Location
+{In Preparation} % Date(s)
+{ % Description(s) of experience/contributions/knowledge
+\begin{cvitems}
+%\item {Gained expertise in penetration testing areas, especially targeted on web application and software.}
+%\item {Participated on a lot of hacking competition and won a good award.}
+%\item {Held several hacking competitions non-profit, just for fun.}
+\end{cvitems}
+}
+
+\cventry
+{} % Role
+{Disinhibitory control of CA1 signal propagation through 5HT3a+ interneurons} % Event
+{Regeneron} % Location
+{2016} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Electrophysiological investigation of interactions between distinct populations of inhibitory interneurons to promote information fidelity in the hippocampus}
+\end{cvitems}
+}
+
+\cventry
+{} % Role
+{Disinhibitory control of CA1 signal propagation through 5HT3a+ interneurons} % Event
+{Society for Neuroscience} % Location
+{2015} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Electrophysiological investigation of interactions between distinct populations of inhibitory interneurons to promote information fidelity in the hippocampus}
+\end{cvitems}
+}
+
+%------------------------------------------------
+\cventry
+{Tognoli, E., Kovacs, A.J., Suutari, B., Afergan, D., Coyne, J., Gibson, G., Stripling, R., Kelso, J.A.S.} % Affiliation/role
+{Behavioral and Brain Dynamics of Team Coordination Part I: Task Design} % Organization/group
+{Foundations of Augmented Cognition - Directing the Future of Adaptive Systems} % Location
+{2011} % Date(s)
+{ % Description(s) of experience/contributions/knowledge
+\begin{cvitems}
+%\item {Gained expertise in penetration testing areas, especially targeted on web application and software.}
+%\item {Participated on a lot of hacking competition and won a good award.}
+%\item {Held several hacking competitions non-profit, just for fun.}
+\end{cvitems}
+}
+
+\cventry
+{} % Role
+{A fresh look on mu rhythms} % Event
+{Society for Neuroscience} % Location
+{2010} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Human EEG investigation of correlation of rhythms in motor/somatosensory cortex between pairs of subjects coordinating on a motor task}
+\end{cvitems}
+}
+
+%------------------------------------------------
+\cventry
+{Ouhib, Z., Kyriacou, A., Suutari, B.} % Affiliation/role
+{Total Treatment Time Verification for the Contura™ Multilumen Balloon} % Organization/group
+{Brachytherapy} % Location
+{2010} % Date(s)
+{ % Description(s) of experience/contributions/knowledge
+\begin{cvitems}
+%\item {Gained expertise in penetration testing areas, especially targeted on web application and software.}
+%\item {Participated on a lot of hacking competition and won a good award.}
+%\item {Held several hacking competitions non-profit, just for fun.}
+\end{cvitems}
+}
+
+\cventry
+{} % Job title
+{In Progress} % Organization
+{} % Location
+{} % Date(s)
+{ % Description(s) of tasks/responsibilities
+\begin{cvitems}
+\item {Project examining interactions in CA1 hippocampal microcricuit between diverse sets of inhibitory interneurons to modulation excitatory hippocampal output}
+\item {Project examining biophysical modulation of cell properties due to alternative splicing of BK potassium channel}
+\end{cvitems}
+}
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+
+\end{cventries}

@@ -1,0 +1,50 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Education}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+%------------------------------------------------
+
+
+\cventry
+{PhD. Neuroscience in the Laboratory of Dr. Richard W. Tsien} % Degree
+{New York University} % Institution
+{New York, NY, USA} % Location
+{August 2011 - Present} % Date(s)
+{ % Description(s) bullet points
+\begin{cvitems}
+\item {MacCracken Fellowship}
+\end{cvitems}
+}
+\cventry
+{Certificate: Japanese Language; Concentration in Physics} % Degree
+{Tokushima University} % Institution
+{Tokushima, JAPAN} % Location
+{March 2006 - April 2007} % Date(s)
+{ % Description(s) bullet points
+\begin{cvitems}
+\item {Full Scholarship}
+\item {Undergraduate Research in Dark Matter Detection (Dr. Zenro Hioki's lab), Quantum Mechanics, Statistical Mechanics and Particle Physics (in Japanese), Intensive Japanese Language Courses}
+\end{cvitems}
+}
+\cventry
+{B.S. Physics} % Degree
+{Florida Atlantic University} % Institution
+{Boca Raton, FL, USA} % Location
+{August 2004 - August 2009} % Date(s)
+{ % Description(s) bullet points
+\begin{cvitems}
+\item {Florida Medallion Scholarship}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+\end{cventries}

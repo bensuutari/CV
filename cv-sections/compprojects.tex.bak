@@ -1,0 +1,75 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Computational Projects (Github)}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+
+\cventry
+{Python, NEURON} % Role
+{Markov Chain Monte Carlo Simulation for Estimation of Synaptic Parameters} % Event
+{} % Location
+{} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {MCMC with a python-NEURON interface to estimate the pdf of a set of synaptic parameters in a microcircuit model given a desired output}
+\end{cvitems}
+}
+
+\cventry
+{Python, NEURON} % Role
+{Biophysially realistic model of neuron with BK channel alternative splice variant} % Event
+{} % Location
+{} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Hodgkin-Huxley based single neuron model to explore changes in action potential dynamics due to modifications of calcium sensitivity in BK channels seen in autism}
+\end{cvitems}
+}
+
+\cventry
+{Python, NEURON} % Role
+{Teaching tool for cellular biophysics} % Event
+{} % Location
+{} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Hodgkin-Huxley based single neuron model with GUI interface so that students can easily modify biophysical parameters and observe changes in neural dynamics}
+\end{cvitems}
+}
+
+\cventry
+{Python, Scipy Libraries} % Role
+{Artificial Neural Network for Image Recognition} % Event
+{} % Location
+{} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Backpropagting ANN for supervised learning and recognition of images of faces}
+\end{cvitems}
+}
+\cventry
+{Python, NLTK, Scikit-Learn} % Role
+{TLDResearch} % Event
+{} % Location
+{} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {PDF summarization tool for parsing complex documents into simple summaries}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+\end{cventries}

@@ -1,0 +1,41 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Presentations}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cventries}
+
+%------------------------------------------------
+
+\cventry
+{Society for Neuroscience} % Role
+{Disinhibitory control of CA1 signal propagation through 5HT3a+ interneurons} % Event
+{Chicago, IL, USA} % Location
+{2015} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Electrophysiological investigation of interactions between distinct populations of inhibitory interneurons to promote information fidelity in the hippocampus}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+\cventry
+{Society for Neuroscience} % Role
+{A fresh look on mu rhythms} % Event
+{San Diego, CA, USA} % Location
+{2010} % Date(s)
+{ % Description(s)
+\begin{cvitems}
+\item {Human EEG investigation of correlation of rhythms in motor/somatosensory cortex between pairs of subjects coordinating on a motor task}
+\end{cvitems}
+}
+
+%------------------------------------------------
+
+\end{cventries}
